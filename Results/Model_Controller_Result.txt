@@ -1,0 +1,14 @@
+controller of the model 
+
+wmin =
+
+    0.9910
+
+wmax =
+
+    1.0069
+
+
+delta =
+
+    0.0160
